@@ -1,0 +1,13 @@
+
+{
+  "name": "roblox-dashboard",
+  "version": "1.0.0",
+  "description": "Track Roblox player data in a live dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
